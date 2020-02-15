@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace CalculadoraDepreciacion
 {
-    public partial class LineaRecta : Form
+    public partial class CalcDepreciacion : Form
     {
         double costo = 0;
         double valorSalvamento = 0;
         int vidaUtil = 0;
 
 
-        public LineaRecta()
+        public CalcDepreciacion()
         {
             InitializeComponent();
         }

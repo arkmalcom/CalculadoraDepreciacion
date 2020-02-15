@@ -1,6 +1,6 @@
 ﻿namespace CalculadoraDepreciacion
 {
-    partial class LineaRecta
+    partial class CalcDepreciacion
     {
         /// <summary>
         /// Required designer variable.
